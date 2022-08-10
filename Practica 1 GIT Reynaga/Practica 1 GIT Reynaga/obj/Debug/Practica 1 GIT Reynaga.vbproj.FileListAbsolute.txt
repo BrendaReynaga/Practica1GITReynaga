@@ -1,0 +1,13 @@
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica 1 GIT Reynaga.vbprojAssemblyReference.cache
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica_1_GIT_Reynaga.Form1.resources
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica_1_GIT_Reynaga.Form2.resources
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica_1_GIT_Reynaga.Resources.resources
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica 1 GIT Reynaga.vbproj.GenerateResource.cache
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica 1 GIT Reynaga.vbproj.CoreCompileInputs.cache
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\bin\Debug\Practica 1 GIT Reynaga.exe.config
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\bin\Debug\Practica 1 GIT Reynaga.exe
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\bin\Debug\Practica 1 GIT Reynaga.pdb
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\bin\Debug\Practica 1 GIT Reynaga.xml
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica 1 GIT Reynaga.exe
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica 1 GIT Reynaga.xml
+C:\Practica GIT Reynaga\Practica 1 GIT Reynaga\Practica 1 GIT Reynaga\obj\Debug\Practica 1 GIT Reynaga.pdb
